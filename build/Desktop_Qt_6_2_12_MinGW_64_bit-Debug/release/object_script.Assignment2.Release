@@ -1,0 +1,11 @@
+release/card.o
+release/deck.o
+release/game.o
+release/gamecontroller.o
+release/hand.o
+release/main.o
+release/cardgamemain.o
+release/player.o
+release/qrc_resources.o
+release/moc_cardgamemain.o
+release/moc_gamecontroller.o

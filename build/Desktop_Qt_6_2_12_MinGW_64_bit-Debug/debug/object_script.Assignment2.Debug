@@ -1,0 +1,11 @@
+debug/card.o
+debug/deck.o
+debug/game.o
+debug/gamecontroller.o
+debug/hand.o
+debug/main.o
+debug/cardgamemain.o
+debug/player.o
+debug/qrc_resources.o
+debug/moc_cardgamemain.o
+debug/moc_gamecontroller.o
